@@ -1,1 +1,1 @@
-pip install paramiko
+sudo pip install paramiko
