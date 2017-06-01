@@ -1,6 +1,6 @@
 sudo apt-get update
 sudo apt-get install tmux
-sudo apt-get install build-essentials
+sudo apt-get install build-essential
 sudo apt-get install libncurses-dev
 sudo apt-get install libssl-dev
 git clone https://github.com/asdf-vm/asdf.git ~/.asdf --branch v0.3.0
