@@ -1,3 +1,4 @@
+sudo apt-get update
 sudo apt-get install tmux
 sudo apt-get install build-essentials
 sudo apt-get install libncurses-dev
