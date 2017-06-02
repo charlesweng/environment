@@ -1,4 +1,6 @@
 sudo apt-get update
+sudo apt-get install fop -y
+sudo apt-get install openjdk-8-jdk -y
 sudo apt-get install zip -y
 sudo apt-get install tmux -y
 sudo apt-get install build-essential -y
